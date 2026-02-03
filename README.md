@@ -5,7 +5,7 @@
 ## Installation
 
 ```bash
-brew install --cask Daniel-Robbins/macmate/macmate
+brew install --cask --no-quarantine Daniel-Robbins/macmate/macmate
 ```
 
 ## Update
